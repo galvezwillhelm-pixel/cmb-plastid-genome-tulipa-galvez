@@ -52,6 +52,9 @@ The annotated GenBank record was loaded using the NCBI RefSeq accession **NC_087
 - **Output format:** PNG
 - **Resolution:** Fine
 
+### Plastid Genome Map
+
+![Tulipa greigii plastid genome map](figures/Tulipa_greigii_plastid_map.png)
 ---
 
 ## 4. Plastid Genome Structure
